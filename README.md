@@ -1,6 +1,15 @@
 # _Word Finder_
 
-#### _If you give this app a word, and a sentence, it will let you know if the word exists in the given sentence, and how many times it is repeated, 4/26/2019_
+#### _If you give this app a word, and a sentence, it will let you know if the word exists in the given sentence, and how many times it is repeated. 4/26/2019_
+
+| Behavior | Input | Output |
+| ------------- |:-------------:| -----:|
+| gets word and gives it back | "string" | "string" |
+| gets sentence | "many apples on the apple tree" | "string" |
+| checks if sentence string contains word string | "apple" "one apple on the apple tree" | true |
+| finds the repetitions of word | "apple" "one apple on the apple tree" | "apple" "apple" |
+| looks for spaces | "one two appleapple" | "false" |
+| counts repetitions of inputted word | "one apple two apple" | 2 | 
 
 #### By _**Marina Poltorak**_
 

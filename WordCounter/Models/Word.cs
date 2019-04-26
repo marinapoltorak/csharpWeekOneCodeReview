@@ -35,7 +35,7 @@ namespace WordCounter
     }
     public string MakeSentence()
     {
-      string contSentence = "";
+      string contSentence = " ";
       int i = 0;
       while(i < 5)
       {
