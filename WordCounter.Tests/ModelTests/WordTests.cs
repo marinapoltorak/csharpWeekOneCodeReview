@@ -42,7 +42,7 @@ namespace WordCounter.Tests
     [TestMethod]
     public void FindWord_ChecksForSpace_false()
     {
-      string testWord = "applepie";
+      string testWord = "apple jam";
       string testSentence = "Apple is great for apple pie";
       Word newWord = new Word(testSentence, testWord, 0);
       Assert.AreEqual(false, newWord.FindWord());
@@ -50,7 +50,7 @@ namespace WordCounter.Tests
     [TestMethod]
     public void FindWord_ChecksForSpace_true()
     {
-      string testWord = "applepie";
+      string testWord = "applejam";
       string testSentence = "Apple is great for apple pie";
       Word newWord = new Word(testSentence, testWord, 0);
       Assert.AreEqual(true, newWord.FindWord());
