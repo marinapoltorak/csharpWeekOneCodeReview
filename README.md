@@ -1,12 +1,12 @@
-# _{Word Finder}_
+# _Word Finder_
 
-#### _{If you give this app a word, and a sentence, it will let you know if the word exists in the given sentence, and how many times it is repeated}, {4/26/2019}_
+#### _If you give this app a word, and a sentence, it will let you know if the word exists in the given sentence, and how many times it is repeated, 4/26/2019_
 
-#### By _**{Marina Poltorak}**_
+#### By _**Marina Poltorak**_
 
 ## Description
 
-_{This app is part of a two week code review for Epicodus c# class. If supplied with a word and a sentence, the program will tell you how many times the word occurs in the sentence. }_
+_This app is part of a two week code review for Epicodus c# class. If supplied with a word and a sentence, the program will tell you how many times the word occurs in the sentence._
 
 ## Setup/Installation Requirements
 
@@ -14,12 +14,12 @@ _{This app is part of a two week code review for Epicodus c# class. If supplied 
 
 ## Known Bugs
 
-_{There is no UI}_
+_There is no UI_
 
 ## Support and contact details
 
-_{Check with me next week and there may be an interface.}_
+_Check with me next week and there may be an interface._
 
 ## Technologies Used
 
-_{C#}_
+_C#_
