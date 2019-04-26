@@ -14,7 +14,6 @@ namespace WordCounter.Tests
       Word newWord = new Word("test sentence", "testWord", 0);
       Assert.AreEqual(typeof(Word), newWord.GetType());
     }
-
     [TestMethod]
     public void GetSentence_ChecksGets_Sentence()
     {
